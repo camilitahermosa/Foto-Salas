@@ -1,0 +1,22 @@
+.backgroundNav{
+    background-color: #df0009;
+}
+
+.logo{
+    max-width: 60px;
+    img{
+        width: 100%;
+    }
+}
+
+nav a{
+    color: white !important;
+}
+
+.nav-item{
+    transition-duration: 0.5s;
+}
+
+.nav-item:hover{
+    transform: scale(1.2);
+}
